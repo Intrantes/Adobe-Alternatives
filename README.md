@@ -92,7 +92,7 @@
 
 - ✨ [SVGcode](https://svgco.de) *(Browser)*
 - ✨ [VTracer](https://www.visioncortex.org/vtracer) *(Browser, Windows, Mac, Linux)*
-- ✨ [CR8tracer](http://cr8.netfirms.com/tracer.html) *(Windows)*
+- ✨ [CR8tracer](https://cr8software.net/tracer.html) *(Windows)*
 - 💵 [Vector Magic](https://vectormagic.com) *(Windows, Mac, Linux)*
 
 ## Animate
